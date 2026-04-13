@@ -6,6 +6,10 @@
 
 A powerful Chrome extension that automatically refreshes web pages at customizable random intervals with persistent settings per page.
 
+## At A Glance
+
+[![Screenshot](https://raw.githubusercontent.com/TufayelLUS/Opensource-Free-Tab-Auto-Refresher/refs/heads/main/ss.png)](https://raw.githubusercontent.com/TufayelLUS/Opensource-Free-Tab-Auto-Refresher/refs/heads/main/ss.png)
+
 ## ✨ Features
 
 - **🎲 Random Refresh Intervals**: Set minimum and maximum seconds for random refresh timing
