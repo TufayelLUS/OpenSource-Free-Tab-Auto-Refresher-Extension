@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Refresh",
+  "version": "1.2",
+  "description": "Auto refresh any webpage at custom intervals with persistent settings",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs",
+    "scripting",
+    "alarms"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Auto Refresh"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
